@@ -27,7 +27,7 @@ a{
 .banner{
     width: 100%;
     height: 600px;
-    background: url("../images/police.png") no-repeat top center;
+    background: url("../images/banner.png") no-repeat top center;
     position: relative;
 }
 
